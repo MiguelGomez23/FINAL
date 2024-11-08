@@ -1,0 +1,35 @@
+Serial:  WS123PP456
+Marca:  Dell
+Tamano:  123.0
+Precio:  750.5
+SistemaOperativo:  Windows 10
+Procesador:  Intel Core i5
+---------------------------------------
+Serial:  XR789AB012
+Marca:  Acer
+Tamano:  1234.0
+Precio:  180.0
+SistemaOperativo:  Windows 10
+Procesador:  Intel Core i5
+---------------------------------------
+Serial:  AC456TR789
+Marca:  Acer
+Tamano:  158.6
+Precio:  680.0
+SistemaOperativo:  Windows 11
+Procesador:  AMD Ryzen
+---------------------------------------
+Serial:  ASU789GF123
+Marca:  Asus
+Tamano:  141.0
+Precio:  720.0
+SistemaOperativo:  Windows 10
+Procesador:  Intel Core i5
+---------------------------------------
+Serial:  DL321HZ456
+Marca:  Dell
+Tamano:  170.3
+Precio:  800.0
+SistemaOperativo:  Windows 7
+Procesador:  AMD Ryzen
+---------------------------------------
